@@ -1,0 +1,11 @@
+Order ID,Order Date,Product Name,Category,Sales,Region
+101,2023-01-05,Laptop,Technology,30000,West
+102,2023-02-10,Phone,Technology,15000,East
+103,2023-03-15,Chair,Furniture,4000,North
+104,2023-04-20,Table,Furniture,7000,South
+105,2023-05-25,Printer,Technology,12000,West
+106,2023-06-18,Laptop,Technology,28000,East
+107,2023-07-22,Phone,Technology,16000,South
+108,2023-08-30,Chair,Furniture,4500,North
+109,2023-09-14,Printer,Technology,13000,West
+110,2023-10-05,Table,Furniture,7500,East
